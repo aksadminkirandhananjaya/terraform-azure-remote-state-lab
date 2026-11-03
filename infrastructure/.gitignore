@@ -1,0 +1,26 @@
+# Terraform directories
+**/.terraform/*
+
+# Terraform state files
+*.tfstate
+*.tfstate.*
+*.tfstate.backup
+
+# Terraform crash logs
+crash.log
+crash.*.log
+
+# Terraform variable files
+*.tfvars
+*.tfvars.json
+
+# Terraform plan files
+*.tfplan
+*.plan
+
+# Backend configuration containing local settings
+**/backend.hcl
+
+# Other local files
+.DS_Store
+Thumbs.db
