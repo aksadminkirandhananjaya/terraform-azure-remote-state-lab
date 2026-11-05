@@ -15,7 +15,7 @@ It also demonstrates how Azure Blob Storage provides state locking to help preve
 
 ## Project Demo
 
-[![Project Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/X6IARd5qUVg)
+(https://youtu.be/X6IARd5qUVg)
 
 ## Objectives
 
