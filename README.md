@@ -13,6 +13,10 @@ The project uses Microsoft Entra ID authentication and Azure Role-Based Access C
 
 It also demonstrates how Azure Blob Storage provides state locking to help prevent conflicting Terraform operations when multiple engineers work with the same infrastructure state.
 
+## Project Demo
+
+[![Project Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/X6IARd5qUVg)
+
 ## Objectives
 
 - Create an Azure Storage Account for Terraform remote state.
